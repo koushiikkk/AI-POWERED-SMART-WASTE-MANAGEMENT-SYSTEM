@@ -1,0 +1,3 @@
+# This file intentionally left empty.
+# Ensures the uploads/ directory exists in version control.
+# Actual uploaded images are gitignored.
